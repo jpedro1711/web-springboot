@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
 O projeto web services com Springboot e JPA / Hibernate é uma aplicação backend desenvolvida durante o curso de programação orientada a objetos da devsuperior na udemy
 
 O sistema consiste em uma aplicação backend que fornece recursos de um banco de dados a partir de requisições que são feitas por meio de rotas (url´s)
